@@ -1,0 +1,17 @@
+11499.95
+11499.95
+<class 'float'>
+399.96
+399.96
+<class 'float'>
+2399.97
+2399.97
+<class 'float'>
+expected_subtotal_tax;1858.9844
+subtotal:1858.98
+expectedtotal:16158.86
+16,158.86
+16158.86
+<class 'float'>
+actualtotal3: 16158.86
+test case pass

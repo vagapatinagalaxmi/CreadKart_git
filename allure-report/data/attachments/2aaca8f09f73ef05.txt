@@ -1,0 +1,6 @@
+[32mINFO    [0m root:test_CredKartUserProfile.py:21 Testcase test_CreadKartUserProfile started
+[32mINFO    [0m root:test_CredKartUserProfile.py:22 Browser navigated to https://automation.credence.in/login
+[32mINFO    [0m root:test_CredKartUserProfile.py:33 Enteru_username-->Credencetest@test.com
+[32mINFO    [0m root:test_CredKartUserProfile.py:36 Enter_Password-->Credence@123
+[32mINFO    [0m root:test_CredKartUserProfile.py:41 Test case test-CredKartUserProfile passed
+[32mINFO    [0m root:test_CredKartUserProfile.py:53 Testcase test_CredKartUserprofile completed

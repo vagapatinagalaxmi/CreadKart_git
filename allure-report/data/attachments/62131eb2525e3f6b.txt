@@ -1,0 +1,17 @@
+[32mINFO    [0m root:test_Amountverification.py:17 Test case test_Amount_verify started 
+[32mINFO    [0m root:test_Amountverification.py:20 browser navigated to https://automation.credence.in
+[32mINFO    [0m root:test_Amountverification.py:23 Click image MocBook
+[32mINFO    [0m root:test_Amountverification.py:25 Click AddCart
+[32mINFO    [0m root:test_Amountverification.py:27 Click Continue  shopping
+[32mINFO    [0m root:test_Amountverification.py:29 Click image headphone
+[32mINFO    [0m root:test_Amountverification.py:31 Click AddCart
+[32mINFO    [0m root:test_Amountverification.py:33 Click continue shopping
+[32mINFO    [0m root:test_Amountverification.py:35 Click image ipad
+[32mINFO    [0m root:test_Amountverification.py:37 Click AddCart
+[32mINFO    [0m root:test_Amountverification.py:39 Click Dropdown box
+[32mINFO    [0m root:test_Amountverification.py:41 Click DropDown box
+[32mINFO    [0m root:test_Amountverification.py:43 Click Dropdown box
+[32mINFO    [0m root:test_Amountverification.py:45 calculate the values
+[32mINFO    [0m root:test_Amountverification.py:47 Click continue shopping
+[32mINFO    [0m root:test_Amountverification.py:51 Test case test_Amount verification passed
+[32mINFO    [0m root:test_Amountverification.py:63 Testcase test_Amount_verify completed

@@ -1,0 +1,23 @@
+[32mINFO    [0m root:test_checklist.py:22 Testcase test_Checklist started
+[32mINFO    [0m root:test_checklist.py:23 Browser navigated to https://automation.credence.in/logindKart.com
+[32mINFO    [0m root:test_checklist.py:27 Enter useremail
+[32mINFO    [0m root:test_checklist.py:29 Enter Password
+[32mINFO    [0m root:test_checklist.py:31 Click Save Button
+[32mINFO    [0m root:test_checklist.py:33 Click  MocBook image
+[32mINFO    [0m root:test_checklist.py:35 Click Add to cart
+[32mINFO    [0m root:test_checklist.py:37 Click Proceed
+[32mINFO    [0m root:test_checklist.py:39 Enter firstname
+[32mINFO    [0m root:test_checklist.py:41 Enter Lastname
+[32mINFO    [0m root:test_checklist.py:43 Enter Phone.no
+[32mINFO    [0m root:test_checklist.py:45 Enter Address
+[32mINFO    [0m root:test_checklist.py:47 Enter Zip number
+[32mINFO    [0m root:test_checklist.py:49 Enter state
+[32mINFO    [0m root:test_checklist.py:51 Enter Owner name
+[32mINFO    [0m root:test_checklist.py:53 Enter Cvv number
+[32mINFO    [0m root:test_checklist.py:55 Enter year
+[32mINFO    [0m root:test_checklist.py:57 Enter month
+[32mINFO    [0m root:test_checklist.py:59 Enter Card Number
+[32mINFO    [0m root:test_checklist.py:64 Click comform Button
+[32mINFO    [0m root:test_checklist.py:68 Tst Case test_checklist passed
+[32mINFO    [0m root:test_checklist.py:69 Take the Screenshot
+[32mINFO    [0m root:test_checklist.py:81 Test case test_checklist completed

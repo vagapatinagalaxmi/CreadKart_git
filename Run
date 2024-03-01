@@ -1,0 +1,3 @@
+pytest -v -s -n=4 --html=HtmlReports/chrome_report.html --browser chrome -p no:warnings
+pytest -v -s -n=4 --html=HtmlReports/firefox_report.html --browser firefox -p no:warnings
+pytest -v -s -n=4 --html=HtmlReports/Edge_report.html --browser edge -p no:warnings

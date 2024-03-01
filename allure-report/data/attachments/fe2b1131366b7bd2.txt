@@ -1,0 +1,12 @@
+[32mINFO    [0m root:test_UserRegistration.py:25 Testcase started Test_UserRegistration
+[32mINFO    [0m root:test_UserRegistration.py:30 browser opened
+[32mINFO    [0m root:test_UserRegistration.py:37 Entering uasername
+[32mINFO    [0m root:test_UserRegistration.py:39 Enter_Username--->None
+[32mINFO    [0m root:test_UserRegistration.py:40 Generating Random Email
+[32mINFO    [0m root:test_UserRegistration.py:43 entering random email
+[32mINFO    [0m root:test_UserRegistration.py:44 generateemail--><function Generate_Email at 0x000002B26531CC20>
+[32mINFO    [0m root:test_UserRegistration.py:46 entering password
+[32mINFO    [0m root:test_UserRegistration.py:48 entering conformpassword
+[32mINFO    [0m root:test_UserRegistration.py:51 click_Register_Button
+[32mINFO    [0m root:test_UserRegistration.py:55 Test case test_UserRegistration passed
+[32mINFO    [0m root:test_UserRegistration.py:67 Test case test_UserRegistration completed
